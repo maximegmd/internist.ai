@@ -5,16 +5,6 @@
     <link>https://internist.ai/series/</link>
     <description>Recent content in Series on internist.ai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://internist.ai/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Themes Guide</title>
-      <link>https://internist.ai/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://internist.ai/series/themes-guide/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://internist.ai/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
